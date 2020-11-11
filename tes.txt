@@ -1,0 +1,3 @@
+https://medium.com/@dede.brahma2/crawling-twitter-dengan-python-936934ea1b30
+https://medium.com/poda/collecting-data-from-twitter-bb29bc5bed6b
+https://medium.com/bisa-ai/crawling-data-twitter-menggunakan-tweepy-python-b8cf2df163b
